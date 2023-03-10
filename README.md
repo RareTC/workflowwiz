@@ -4,6 +4,7 @@
 
 ### [CLICK TO DEMO](https://workflowwiz.herokuapp.com/)
 
+[![LinkedIn Badge](https://img.shields.io/badge/-Trevor-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/trevor-campbell-a9188624a/)
 
 
 ## :pencil: Description
@@ -39,7 +40,7 @@ Overall, Workflow Wiz provides a simple and intuitive interface for managing per
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 
-## :fire: Getting Started
+## :atom_symbol: Getting Started
 
 <details open>
   <summary> How to Create a Project </summary>
@@ -61,6 +62,15 @@ Overall, Workflow Wiz provides a simple and intuitive interface for managing per
 </details>
 
 <details open>
+  <summary> How to View associated Projects </summary>
+  <ul>
+    <li>Sign up or log in to your account.</li>
+    <li>Navigate to "My Projects" page using the navigation bar.</li>
+    <li>Underneath the "My Projects" section, you will find a separate section to projects you have been added to by another Project Manager. Here you can view and interact with the project with limited privileges. </li>
+  </ul>
+</details>
+
+<details open>
   <summary> Trello Board </summary>
   <a href="https://trello.com/b/ya8MtNQx/workflow-wiz"
     > https://trello.com/b/ya8MtNQx/workflow-wiz </a
@@ -76,8 +86,10 @@ Overall, Workflow Wiz provides a simple and intuitive interface for managing per
 
 ## :satellite: Upcoming Features
 
-- [:star:] Follow other users signed up on the app
+- [:x:] Follow other users signed up on the app
 
-- [:star:] Communicate with project members through an external chat API
+- [:x:] Communicate with project members through an external chat API
 
-- [:star:] Sort tasks by their priority
+- [:x:] Sort tasks by their priority
+
+- [:x:] Implement a search bar to search for users by their name. 
