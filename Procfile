@@ -1,1 +1,1 @@
-web: gunicorn workflowwiz.wsgi
+web: gunicorn workflow-wiz.wsgi
