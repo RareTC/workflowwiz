@@ -2,7 +2,7 @@
 
 # Workflow Wiz
 
-### [CLICK TO DEMO](https://workflowwiz.herokuapp.com/)
+### [CLICK TO DEMO](https://workflow-wiz.herokuapp.com/)
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Trevor-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/trevor-campbell-a9188624a/)
 
